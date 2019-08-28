@@ -1,0 +1,28 @@
+.divimg{
+    width: 117px;
+    height: 300px;
+    float: left;
+    margin: 0 20px;
+    position: relative;
+}
+.divimg  img{
+    width: 117px;
+    height: 117px;
+    line-height: 117px;
+}
+.divimg p{
+    width: 100%;
+    text-align: center;
+}
+.divimg .che{
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+.top{
+    height: 30px;
+    /*width: 100%;*/
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+}
